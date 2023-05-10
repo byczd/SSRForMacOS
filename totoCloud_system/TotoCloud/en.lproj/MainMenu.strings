@@ -1,0 +1,24 @@
+
+/* Class = "NSMenuItem"; title = "Auto Mode Base On PAC"; ObjectID = "429-35-qQM"; */
+"429-35-qQM.title" = "Auto Mode Base On PAC";
+
+/* Class = "NSMenuItem"; title = "Turn Proxy On"; ObjectID = "LrV-xM-I60"; */
+"LrV-xM-I60.title" = "Turn Proxy On";
+
+/* Class = "NSMenuItem"; title = "⚙ Settings"; ObjectID = "MPE-VB-fo0"; */
+"MPE-VB-fo0.title" = "⚙ Settings";
+
+/* Class = "NSMenuItem"; title = "⚇ Show MainUI"; ObjectID = "Og1-Eo-xgX"; */
+"Og1-Eo-xgX.title" = "⚇ Show MainUI";
+
+/* Class = "NSWindow"; title = "macDemo2"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "macDemo2";
+
+/* Class = "NSMenuItem"; title = "Proxy: On"; ObjectID = "T2F-kL-QZE"; */
+"T2F-kL-QZE.title" = "Proxy: On";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "b5f-TL-1mG"; */
+"b5f-TL-1mG.title" = "Quit";
+
+/* Class = "NSMenuItem"; title = "Global Mode"; ObjectID = "cfy-cb-Nfe"; */
+"cfy-cb-Nfe.title" = "Global Mode";
